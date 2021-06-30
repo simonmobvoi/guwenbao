@@ -3,7 +3,9 @@
 
 ## Why do we want to create this repository
 
-This repository is intended for people who are interesting in learning/reading Classical Chinese but be at a loss what to do to. As we all know, mastering Classical Chinese (文言文) is not a easy job, even for native Chinese speakers. There may be a "super steep learning curve" at the beginning. In order to help people step into the world of ancient chinese literature, this project is used Mobvoi's UCLAI(Universal Chinese Language AI) platform to translate the chinese poems into modern chinese（白话文). All of the poems are collected from the Internet (e.g., [Github Repo]( https://github.com/Werneror/Poetry),[Website](https://www.gushiwen.org/)...etc). 
+This repository is intended for people who are interesting in learning/reading Classical Chinese but be at a loss what to do to. As we all know, mastering Classical Chinese (文言文) is not a easy job, even for native Chinese speakers. There may be a "super steep learning curve" at the beginning. In order to help people step into the world of ancient chinese literature. 
+
+All of the poems in this repository are collected from the Internet (e.g., [Github Repo](https://github.com/Werneror/Poetry),[Website](https://www.gushiwen.org/)...etc). We use Mobvoi's UCLAI(Universal Chinese Language AI) platform to translate the Chinese poems into Modern Chinese（白话文). Not all of the translations are perfect, since all of them are made by machine using machine learning techniques. We would appreciate if you find any inappropriate or wrong contents, kindly report them to us.
 
 ## Reasons why one should consider learning Classical Chinese ( [quote from quora](https://www.quora.com/Why-should-one-consider-learning-Classical-Chinese))
 
