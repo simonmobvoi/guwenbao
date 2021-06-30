@@ -1,4 +1,5 @@
 # guwenbao(古文宝)
+<img src="Guwenbao_wechat_code.jpg" width="200" height="200">
 
 ## Why do we want to create this repository
 
