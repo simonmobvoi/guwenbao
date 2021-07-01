@@ -11,13 +11,13 @@ All of the poems in this repository are collected from the Internet (e.g., Githu
 
 ## Reasons why one should consider learning Classical Chinese ([from quora](https://www.quora.com/Why-should-one-consider-learning-Classical-Chinese))
 
-* Able to read ancient Chinese classics, text and historical sources
+* Able to read ancient Chinese classics, text, and historical sources
 * Able to access traditional Chinese culture at a greater depth.
-* All Chinese literature before 1920s were in Classical Chinese. If you want to access them, then you need to learn Classical Chinese.
+* All Chinese literature before the 1920s was in Classical Chinese. If you want to access them, then you need to learn Classical Chinese.
 * Able to appreciate the beauty of Classical Chinese, esp. Classical Chinese literature
-* Classical Chinese is the language of ancient Chinese scholars, literati or intellectuals. If you want to understand what the ancient Chinese scholars were thinking, Classical Chinese is must to learn.
-* Allow you to be more skillful in your modern Mandarin writing, esp. when you are able to infuse classical vocabulary, phrases or text into modern Chinese writing. You will also be more skillful in the use of words, and be more concise in your writing, instead of being long-winded in your writing. 
-* A great boost to your command of Chinese language, esp. in the flowery and literary sense.
+Classical Chinese is the language of ancient Chinese scholars, literati, or intellectuals. If you want to understand what the ancient Chinese scholars were thinking, Classical Chinese is a must to learn.
+* Allow you to be more skillful in your modern Mandarin writing, esp. when you can infuse classical vocabulary, phrases, or text into modern Chinese writing. You will also be more skillful in the use of words, and be more concise in your writing, instead of being long-winded in your writing.
+* A great boost to your command of the Chinese language, esp. in the flowery and literary sense.
 * Chinese paintings or calligraphy often carry words of Classical Chinese or Classical Poetry. If you want to understand them, you need to learn Classical Chinese.
 
 ## To Do
