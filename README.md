@@ -5,7 +5,7 @@
 
 This repository is intended for people who are interesting in learning/reading Classical Chinese (文言文) but be at a loss what to do to. As we all know, mastering Classical Chinese is not an easy job, even for native Chinese speakers. There may be a "super steep learning curve" at the beginning. To help people step into the world of ancient Chinese literature, we try to use machine learnings techniques to translate the Chinese poems (古诗词) into Modern Chinese (白话文).
 
-All of the poems in this repository are collected from the Internet (e.g., Github Repo, Website...etc) and the translation is done by using Mobvoi's UCLAI (Universal Chinese Language Artificial Intelligence) platform. Please noticed that not all of the translations are perfect, as all of the translations are made by machine. We would appreciate it if you find any inappropriate or wrong contents, kindly report them to us.
+All of the poems in this repository are collected from the Internet (e.g., [Github Repo](https://github.com/Werneror/Poetry), [Website](https://www.gushiwen.org/)...etc) and the translation is done by using [Mobvoi's UCLAI (Universal Chinese Language Artificial Intelligence)](https://www.chumenwenwen.com/) platform. Please noticed that not all of the translations are perfect, as all of the translations are made by machine. We would appreciate it if you find any inappropriate or wrong contents, kindly report them to us.
 
 
 
